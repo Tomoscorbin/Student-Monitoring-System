@@ -10,11 +10,11 @@ There are four main components to the system:
 3) Underperforming Students
 4) Hardworking Students
 
-Test Results requires the user to enter the student ID number of the student they wish to review. The user can
+1) Test Results requires the user to enter the student ID number of the student they wish to review. The user can
 then either click 'Results' to view a dataframe of the student's results, or 'Plot Results' to view a linechart
 of the student's results.
 
-Student Performance requires two inputs. The first is the name of the test written with underscores instead of 
+2) Student Performance requires two inputs. The first is the name of the test written with underscores instead of 
 spaces (e.g. Formative_Test_1, Formative_Test_2, SumTest, etc), and the second is the student's ID number. The user 
 can then click 'Absolute Grade' to view the student's grade for that test, or 'Relative Grade' to view the student's relative grade
 for that test. Relative grade is calculated by subtracting the student's absolute grade from the average grade earned 
